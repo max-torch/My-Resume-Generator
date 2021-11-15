@@ -1,21 +1,21 @@
 # Alexander Lacson
 lacsonalexanderz@gmail.com | [Portfolio Website](https://max-torch.github.io/) | 
-[Github](https://github.com/max-torch) | LinkedIn | Philippines
+[Github](https://github.com/max-torch) | [Medium](https://lacsonalexanderz.medium.com/) | Philippines 
 
 ### Summary
 ***
-Looking for a Data Science Role. Considers himself a strategic and analytical person. Prefers to make decisions that are informed by data.
+Looking for a role in a Data Analytics or Data Science Department. Considers himself a strategic and analytical person. Prefers to make decisions that are informed by data.
 ### Technical Skills
 ***
-Python | SQL | Exploratory Data Analysis | Data Visualization | Interactive Visualizations | Data Cleaning and Wrangling | Machine Learning | Version Control using Git | Markdown
+Python | SQL | Exploratory Data Analysis | Data Visualization | Interactive Visualizations | Data Cleaning and Wrangling | Machine Learning | Version Control using Git | Markdown | Tableau Public | Importing and Pulling Data from Various Sources
 ### Familiar with the following Python Packages and Tools:
 ***
- Pandas | Matplotlib | Seaborn | Plotly | Jupyter | scikit-learn(familiar) | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup 
+ Pandas | Matplotlib | Seaborn | Plotly | Jupyter | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup
 
 ### Work Experience
 ***
 Unemployed | November 2020 to Present
-* Focused full-time on studying Data Science online. Main resource was [Codecademy](https://www.codecademy.com/). Secondary Resources were YouTube, Scikitlearn, various API docs, and googling stuff.
+* Focused on studying Data Science online. Main resource was [Codecademy](https://www.codecademy.com/). Secondary Resources were YouTube, Scikitlearn, various API docs, and googling stuff.
 
 Chrysos Aquaculture | Manager | January 2019 - November 2020
 * Presented financial reports to upper management.
