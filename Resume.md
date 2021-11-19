@@ -1,6 +1,6 @@
 # Alexander Lacson
 lacsonalexanderz@gmail.com | [Portfolio Website](https://max-torch.github.io/) | 
-[Github](https://github.com/max-torch) | [Medium](https://lacsonalexanderz.medium.com/) | Philippines 
+[Github](https://github.com/max-torch) | [Medium](https://lacsonalexanderz.medium.com/) | Philippines | +639993206141
 
 ### Summary
 Looking for a role in a Data Analytics or Data Science Department. Considers himself a strategic and analytical person. Prefers to make decisions that are informed by data.
