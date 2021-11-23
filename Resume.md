@@ -11,11 +11,16 @@ Looking for a role in a Data Analytics or Data Science Department. Considers him
 **Data-related Skills**: Importing Data from Various Sources | Interacting with REST APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Interactive and Static Data Visualization | Machine Learning<br>
 **Software Tools and Platforms**: Git and GitHub | Tableau Public | Visual Studio Code | Anaconda | Jupyter<br>
 ### Work Experience
-Chrysos Aquaculture | Manager | January 2019 - November 2020
+January 2019 - November 2020 | **Chrysos Aquaculture** | Manager
 * Presented financial reports to upper management such as showing the current sources of expenditure, forecasting future expenses, and price comparison from different suppliers.
 * Procured hardware, equipment, and material from local and online suppliers.
+* Reviewed and approved weekly budget requests before they were sent to upper management.
+* Involved in laying off an entire team of people. Ensured transparency with employees about the reasons and ensured that advance notice and severance pay was given.
+* Introduced the [Trello](https://trello.com/about) app as a management tool to the staff under me so that I could manage assigned tasks through the app and give everyone a sense of how each other was doing in terms of work and backlog. They were very grateful that it detected merge conflicts!
+* Taught bookkeeping staff how to use [GitHub Desktop](https://desktop.github.com/) so that they could collaborate, backup, and apply version control on their files and documents.
+* Held Town Hall Meetings to communicate company news to employees and to hear out employee concerns. Responded to and followed up on the concerns being raised.
 
-Maxim Integrated | Test Product Engineer | June 2017 - December 2018
+June 2017 - December 2018 | **Maxim Integrated** | Test Product Engineer
 * Debugged and maintained semiconductor product test programs/code that were already deployed in production. They were written in Visual Basic and C++.
 * Analyzed, and presented data for an A/B test comparing two different materials of a Test Platform component to see whether it reduced damage to products induced during testing.
 * Identified a product which had a consistent history of passing certain tests. Used data of present and past performance to show that removing those particular tests from the test process would not result in a negative impact on quality. Implemented and committed the reduction of the tests from the test program.
