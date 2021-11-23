@@ -16,8 +16,8 @@ January 2019 - November 2020 | **Chrysos Aquaculture** | Manager
 * Procured hardware, equipment, and material from local and online suppliers.
 * Reviewed and approved weekly budget requests before they were sent to upper management.
 * Involved in laying off an entire team of people. Ensured transparency with employees about the reasons and ensured that advance notice and severance pay was given.
-* Introduced the [Trello](https://trello.com/about) app as a management tool to the staff under me so that I could manage assigned tasks through the app and give everyone a sense of how each other was doing in terms of work and backlog. They were very grateful that it detected merge conflicts!
-* Taught bookkeeping staff how to use [GitHub Desktop](https://desktop.github.com/) so that they could collaborate, backup, and apply version control on their files and documents.
+* Introduced the [Trello](https://trello.com/about) app as a management tool to the staff under me so that I could manage assigned tasks through the app and give everyone a sense of how each other was doing in terms of work and backlog.
+* Taught bookkeeping staff how to use [GitHub Desktop](https://desktop.github.com/) so that they could collaborate, backup, and apply version control on their files and documents. They were very grateful that it detected merge conflicts!
 * Held Town Hall Meetings to communicate company news to employees and to hear out employee concerns. Responded to and followed up on the concerns being raised.
 
 June 2017 - December 2018 | **Maxim Integrated** | Test Product Engineer
@@ -25,6 +25,9 @@ June 2017 - December 2018 | **Maxim Integrated** | Test Product Engineer
 * Analyzed, and presented data for an A/B test comparing two different materials of a Test Platform component to see whether it reduced damage to products induced during testing.
 * Identified a product which had a consistent history of passing certain tests. Used data of present and past performance to show that removing those particular tests from the test process would not result in a negative impact on quality. Implemented and committed the reduction of the tests from the test program.
 * Underwent in-house training on the basic concepts of Six Sigma DMAIC, and other problem-solving methodologies such as 8D and 3x5 Why.
+### Selected Project Highlights
+* Authored a [Medium Article](https://medium.com/codex/make-others-want-to-work-with-your-code-93bf745bd35b) called "Make Others Want to Work with Your Code" that was selected for further distribution by Medium's curators which still gets views and shares every week.
+* Explored and analyzed with machine learning data the online dating platform OKCupid as a portfolio project while going through courses on Codecademy. Machine learning algorithms showed that decsribing one's body as curvy was a predictor that a user was female. A [blog article](https://max-torch.github.io/2021/05/15/OKCupid.html) discusses the entire project.
 ### Informal Education
 * [Codecademy Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science) | August 2020 - November 2020
 * [Codecademy Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) | November 2020 - June 2021
