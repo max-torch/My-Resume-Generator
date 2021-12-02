@@ -5,7 +5,7 @@ lacsonalexanderz@gmail.com | [Portfolio Website](https://max-torch.github.io/) |
 ### Summary
 Looking for a role in a Data Analytics or Data Science Department. Considers himself a strategic and analytical person. Prefers to make decisions that are informed by data.
 ### Technical Skills
-**Programming Languages**: Python | SQL | Markdown<br>
+**Programming and Markup Languages**: Python | SQL | Markdown<br>
 **Python Libraries**:  Pandas | Matplotlib | Seaborn | Plotly | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup | Requests
 <br>
 **Data-related Skills**: Importing Data from Various Sources | Interacting with REST APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Interactive and Static Data Visualization | Machine Learning<br>
