@@ -52,7 +52,7 @@ June 2017 - December 2018 | **Maxim Integrated** | Test Product Engineer
 * [Topped the Philippines Electronics Technician (ECT) Licensure Exam April 2017](https://www.prcboardnews.com/2017/04/top-10-passers-april-2017-ece-ect-board-exam-results.html)
 * Finished the ten speeches [Competent Communicator](https://www.nytoastmasters.org/competent-communicator) Path of Toastmasters International
 
-*Fun Fact: This resume was written by me in Markdown and then stylized with HTML/CSS*
+*Fun Fact: This resume is itself a coding project. Initially, it was written in Markdown. Then it was converted to HTML using a VSCode extension. Then it was stylized and converted into a PDF using a Python script and a CSS stylesheet. Finally, Git version control is used to manage the different versions of my resume I send to different employers.[View it on GitHub](https://github.com/max-torch/My-Resume-Generator)*
 
 
 
