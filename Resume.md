@@ -31,7 +31,7 @@ June 2017 - December 2018 | **Maxim Integrated** | Test Product Engineer
 * Authored code that allows the app to generate data visualizations from the user's data. [View pull request](https://github.com/Pazitos10/time-tracker/pull/3)
 
 **Battle For Wesnoth** | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | Cross-platform, turn-based fantasy strategy game
-* Significant number of proofreading contributions to in-game dialog and text.
+* Proofreading, improvements, and additions to in-game dialog and text.
 * Suggested and implemented some feature enhancements to campaign scenarios.
 * Closed some issues with the in-house developer tools. Had to install an Ubuntu OS in a Hyper-V VM in order to verify that fixes and features were functional in Linux as well as Windows.
 * Learned how to work with the in-house programming language known as WML by reading the project documentation, looking at examples in the existing code, and communicating with the current Project Development Team on Discord.
