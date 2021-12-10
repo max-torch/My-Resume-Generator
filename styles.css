@@ -1,0 +1,27 @@
+h3 {
+    color: #FE2E9A;
+}
+
+h3 {
+    position:relative;
+    text-align:left;
+}
+h3 span {
+    display:inline-block;
+    padding:0 10px;
+    background:#fff;
+}
+h3:before {
+    content:"";
+    display:block;
+    position:absolute;
+    z-index:-1;
+    left:0;
+    right:0;
+    top:50%;
+    height:1px;
+    background:#ccc;
+}
+a { 
+    color: #007bff;
+}
