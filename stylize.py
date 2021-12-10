@@ -17,4 +17,4 @@ with open("StylizedResume.html", "wb") as f_output:
     f_output.write(soup.prettify("utf-8"))
 
 config = pdfkit.configuration(wkhtmltopdf="C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe")
-pdfkit.from_file('StylizedResume.html', 'Alexander Lacson Resume.pdf', configuration=config)
+pdfkit.from_file('StylizedResume.html', 'My Resume.pdf', configuration=config)
