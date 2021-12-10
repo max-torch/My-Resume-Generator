@@ -13,3 +13,4 @@ I initially decided to write my resume using markdown instead of using an office
  2. Use [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) to convert the `.md` file to `.html`.
  3. Run `stylize.py`.
  4. Your resume is ready as `My Resume.pdf`.
+ 5. Tailor your resume for each job application and keep track of all of the different versions by using Git to create a new branch for each version of your resume you present to employers.
