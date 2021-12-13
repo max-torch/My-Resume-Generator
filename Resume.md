@@ -4,7 +4,7 @@ lacsonalexanderz@gmail.com | [Portfolio Website](https://max-torch.github.io/) |
 
 ### Summary
 Looking for a role in a Data Analytics or Data Science Department. Considers himself a strategic and analytical person. Prefers to make decisions that are informed by data. If data-related roles are not
-available, he is also interested in any software engineering, software testing, or software deployment roles.
+available, he is also interested in any software engineering roles.
 ### Technical Skills
 **Programming and Markup Languages**: Python | SQL | Markdown | HTML/CSS<br>
 **Python Libraries**:  Pandas | Matplotlib | Seaborn | Plotly | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup | Requests | Flask (familiar)
@@ -37,7 +37,7 @@ June 2017 - December 2018 | **Maxim Integrated** | Test Product Engineer
 * Learned how to work with the in-house programming language known as WML by reading the project documentation, looking at examples in the existing code, and communicating with the current Project Development Team on Discord.
 * Learned how to work with in-house developer tools written in Python.
 ### Selected Project Highlights
-* Currently working on a Shopify Private App that fetches data from a Shopify Store using Shopify's Rest Admin API and presents a dashboard to the user. View the [project's GitHub repository](https://github.com/max-torch/Custom-Shopify-Analytics) to see partial progress.
+* Created a Shopify Private App that fetches data from a Shopify Store using Shopify's Rest Admin API and presents a dashboard containing aggregated data to the user. View the [project's GitHub repository](https://github.com/max-torch/Custom-Shopify-Analytics) to see partial progress.
 * Authored a [Medium Article](https://medium.com/codex/make-others-want-to-work-with-your-code-93bf745bd35b) called "Make Others Want to Work with Your Code" that was selected for further distribution by Medium's curators which still gets views and shares every week.
 * Explored and analyzed with machine learning data from the online dating platform OKCupid as a portfolio project while going through courses on Codecademy. Machine learning algorithms showed that decsribing one's body as curvy was a predictor that a user was female. A [blog article](https://max-torch.github.io/2021/05/15/OKCupid.html) discusses the entire project.
 ### Informal Education
