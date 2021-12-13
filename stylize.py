@@ -1,21 +1,37 @@
 from bs4 import BeautifulSoup
 import pdfkit
 
-soup = BeautifulSoup(open("Resume.html", encoding='utf8'), "html.parser")
-headings = soup.find_all('h3')
 
-for heading in headings:
-    new_span = soup.new_tag("span")
-    for content in reversed(heading.contents):
-        new_span.insert(0, content.string)
-    heading.append(new_span)
+def main():
+    soup = BeautifulSoup(open("Resume.html", encoding='utf8'), "html.parser")
+    stylized_soup = stylize_soup(soup)
+    soup_to_html("StylizedResume.html", stylized_soup)
+    html_to_pdf("StylizedResume.html", "My Resume.pdf")
 
-new_link = soup.new_tag("link", rel="stylesheet", href="styles.css")
-soup.head.append(new_link)
+    
+def stylize_soup(soup):
+    headings = soup.find_all('h3')
 
-with open("StylizedResume.html", "wb") as f_output:
-    f_output.write(soup.prettify("utf-8"))
+    for heading in headings:
+        new_span = soup.new_tag("span")
+        for content in reversed(heading.contents):
+            new_span.insert(0, content.string)
+        heading.append(new_span)
 
-config = pdfkit.configuration(
-    wkhtmltopdf="C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe")
-pdfkit.from_file('StylizedResume.html', 'My Resume.pdf', configuration=config)
+    new_link = soup.new_tag("link", rel="stylesheet", href="styles.css")
+    soup.head.append(new_link)
+    return soup
+
+
+def soup_to_html(file, soup):
+    with open(file, "wb") as f_output:
+        f_output.write(soup.prettify("utf-8"))
+
+
+def html_to_pdf(html_file, pdf_file):
+    config = pdfkit.configuration(wkhtmltopdf="C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe")
+    pdfkit.from_file(html_file, pdf_file, configuration=config)
+
+
+if __name__ == "__main__":
+    main()
