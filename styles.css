@@ -1,17 +1,16 @@
-h3 {
+h2 {
     color: #FE2E9A;
-}
-
-h3 {
     position:relative;
     text-align:left;
 }
-h3 span {
+
+h2 span {
     display:inline-block;
     padding:0 10px;
     background:#fff;
 }
-h3:before {
+
+h2:before {
     content:"";
     display:block;
     position:absolute;
@@ -22,6 +21,15 @@ h3:before {
     height:1px;
     background:#ccc;
 }
+
 a { 
     color: #007bff;
+}
+
+p {
+    font-size: 16px;
+}
+
+ul {
+    font-size: 16px;
 }
