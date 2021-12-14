@@ -39,7 +39,7 @@ June 2017 - December 2018 | **Maxim Integrated** | Test Product Engineer
 ### Selected Project Highlights
 * Created a Shopify Private App that fetches data from a Shopify Store using Shopify's Rest Admin API and presents a dashboard containing aggregated data to the user. View the [project's GitHub repository](https://github.com/max-torch/Custom-Shopify-Analytics) to see partial progress.
 * Authored a [Medium Article](https://medium.com/codex/make-others-want-to-work-with-your-code-93bf745bd35b) called "Make Others Want to Work with Your Code" that was selected for further distribution by Medium's curators which still gets views and shares every week.
-* Explored and analyzed with machine learning data from the online dating platform OKCupid as a portfolio project while going through courses on Codecademy. Machine learning algorithms showed that decsribing one's body as curvy was a predictor that a user was female. A [blog article](https://max-torch.github.io/2021/05/15/OKCupid.html) discusses the entire project.
+* Explored, and analyzed with machine learning, data from the online dating platform OKCupid as a portfolio project while going through courses on Codecademy. Machine learning algorithms showed that decsribing one's body as curvy was a predictor that a user was female. A [blog article](https://max-torch.github.io/2021/05/15/OKCupid.html) discusses the entire project.
 ### Informal Education
 * [Codecademy Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science) | August 2020 - November 2020
 * [Codecademy Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) | November 2020 - June 2021
