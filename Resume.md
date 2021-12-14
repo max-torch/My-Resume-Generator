@@ -1,14 +1,13 @@
 # Alexander Lacson
 lacsonalexanderz@gmail.com | [Portfolio Website](https://max-torch.github.io/) | 
-[Github](https://github.com/max-torch) | [Medium](https://lacsonalexanderz.medium.com/) | Philippines | +639993206141
+[GitHub](https://github.com/max-torch) | [Medium](https://lacsonalexanderz.medium.com/) | Philippines | +639993206141
 
 ### Summary
 Looking for a role in a Data Analytics or Data Science Department. Considers himself a strategic and analytical person. Prefers to make decisions that are informed by data. If data-related roles are not
 available, he is also interested in any software engineering roles.
 ### Technical Skills
 **Programming and Markup Languages**: Python | SQL | Markdown | HTML/CSS<br>
-**Python Libraries**:  Pandas | Matplotlib | Seaborn | Plotly | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup | Requests | Flask (familiar)
-<br>
+**Python Libraries**: Pandas | Matplotlib | Seaborn | Plotly | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup | Requests | Flask (familiar)<br>
 **Data-related Skills**: Importing Data from Various Sources | Interacting with REST APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Interactive and Static Data Visualization | Machine Learning | Web-server Dashboard Apps with Plotly Dash<br>
 **Software Tools and Platforms**: Git and GitHub | Tableau Public | Visual Studio Code | Anaconda | Jupyter<br>
 ### Work Experience
@@ -39,12 +38,12 @@ June 2017 - December 2018 | **Maxim Integrated** | Test Product Engineer
 ### Selected Project Highlights
 * Created a Shopify Private App that fetches data from a Shopify Store using Shopify's Rest Admin API and presents a dashboard containing aggregated data to the user. View the [project's GitHub repository](https://github.com/max-torch/Custom-Shopify-Analytics) to see partial progress.
 * Authored a [Medium Article](https://medium.com/codex/make-others-want-to-work-with-your-code-93bf745bd35b) called "Make Others Want to Work with Your Code" that was selected for further distribution by Medium's curators which still gets views and shares every week.
-* Explored, and analyzed with machine learning, data from the online dating platform OKCupid as a portfolio project while going through courses on Codecademy. Machine learning algorithms showed that decsribing one's body as curvy was a predictor that a user was female. A [blog article](https://max-torch.github.io/2021/05/15/OKCupid.html) discusses the entire project.
+* Explored, and analyzed with machine learning, data from the online dating platform OKCupid as a portfolio project while going through courses on Codecademy. Machine learning algorithms showed that describing one's body as curvy was a predictor that a user was female. A [blog article](https://max-torch.github.io/2021/05/15/OKCupid.html) discusses the entire project.
 ### Informal Education
 * [Codecademy Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science) | August 2020 - November 2020
 * [Codecademy Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) | November 2020 - June 2021
 * [Kaggle 30 days of Machine Learning](https://www.kaggle.com/thirty-days-of-ml) | August 2021 - September 2021
-* Self-learning  from online articles, videos, and projects | September 2021 - Present
+* Self-learning from online articles, videos, and projects | September 2021 - Present
 ### Formal Education
 * University of St. La Salle | Bachelor's Degree in Electronics Engineering | 2013 - 2016
 * Technological University of the Philippines | Electronics Engineering Technology | 2009 - 2012
@@ -52,7 +51,7 @@ June 2017 - December 2018 | **Maxim Integrated** | Test Product Engineer
 * [Topped the Philippines Electronics Technician (ECT) Licensure Exam April 2017](https://www.prcboardnews.com/2017/04/top-10-passers-april-2017-ece-ect-board-exam-results.html)
 * Finished the ten speeches [Competent Communicator](https://www.nytoastmasters.org/competent-communicator) Path of Toastmasters International
 
-*Fun Fact: This resume is itself a coding project. Initially, it was written in Markdown. Then it was converted to HTML using a VSCode extension. Then it was stylized and converted into a PDF using a Python script and a CSS stylesheet. Finally, Git version control is used to manage the different versions of my resume I send to different employers.[View it on GitHub](https://github.com/max-torch/My-Resume-Generator)*
+*Fun Fact: This resume is itself a coding project. Initially, it was written in Markdown. Then it was converted to HTML using a VSCode extension. Then it was stylized and converted into a PDF using a Python script and a CSS stylesheet. Finally, Git version control is used to manage the different versions of my resume I send to different employers. [View it on GitHub](https://github.com/max-torch/My-Resume-Generator)*
 
 
 
