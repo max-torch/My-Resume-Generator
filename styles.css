@@ -1,5 +1,5 @@
 h2 {
-    color: #FE2E9A;
+    color: #ff148d;
     position:relative;
     text-align:left;
 }
@@ -23,7 +23,7 @@ h2:before {
 }
 
 a { 
-    color: #007bff;
+    color: #0562c5;
 }
 
 p {
