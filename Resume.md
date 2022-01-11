@@ -1,6 +1,5 @@
 # Alexander Lacson
-lacsonalexanderz@gmail.com | [Portfolio Website](https://max-torch.github.io/) | 
-[GitHub](https://github.com/max-torch) | [Medium](https://lacsonalexanderz.medium.com/) | Philippines | +639993206141
+lacsonalexanderz@gmail.com | [Portfolio](https://max-torch.github.io/) | [LinkedIn](https://www.linkedin.com/in/alexanderzlacson/) | [GitHub](https://github.com/max-torch) | [Medium](https://lacsonalexanderz.medium.com/) | Philippines | +639993206141
 
 ## Summary
 - Looking for a role in a Data Analytics or Data Science Department
@@ -27,10 +26,10 @@ January 2019 - November 2020 | **Chrysos Aquaculture** | Manager
 June 2017 - December 2018 | **Maxim Integrated** | Test Product Engineer
 * Debugged and maintained semiconductor product test programs/code, which were written in Visual Basic and C++, that were already deployed in production 
 * Analyzed and presented data for an A/B test comparing two different materials of a Test Platform component to see whether it reduced damage to products induced during testing
-* Identified a product which had a consistent history of passing certain tests
+* Identified a product that had a consistent history of passing certain tests
   * Used data of present and past performance to show that removing those particular tests from the test process would not result in a negative impact on quality
   * Implemented and committed the reduction of the tests from the test program
-* Underwent in-house training on the basic concepts of Six Sigma DMAIC, and other problem-solving methodologies such as 8D and 3x5 Why<br><br><br><br>
+* Underwent in-house training on the basic concepts of Six Sigma DMAIC, and other problem-solving methodologies such as 8D and 3x5 Why<br><br><br><br><br><br>
 ## Open-Source Contributions (GitHub Handle: max-torch)
 **Time Tracker** | [Pazitos10/time-tracker](https://github.com/Pazitos10/time-tracker) | Time-tracking application written in Python
 * Authored code that allows the app to generate data visualizations from the user's data ([View pull request on GitHub](https://github.com/Pazitos10/time-tracker/pull/3))
