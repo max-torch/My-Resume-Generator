@@ -10,7 +10,7 @@ def main():
 
     
 def stylize_soup(soup):
-    headings = soup.find_all('h2')
+    headings = soup.find_all('h3')
 
     for heading in headings:
         new_span = soup.new_tag("span")

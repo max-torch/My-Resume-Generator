@@ -1,19 +1,19 @@
 # Alexander Lacson
 lacsonalexanderz@gmail.com | [Portfolio](https://max-torch.github.io/) | [LinkedIn](https://www.linkedin.com/in/alexanderzlacson/) | [GitHub](https://github.com/max-torch) | [Medium](https://lacsonalexanderz.medium.com/) | Philippines | +639993206141
 
-## Summary
+### Summary
 - Looking for a role in a Data Analytics or Data Science Department
 - Considers himself a strategic and analytical person
 - Prefers to make decisions that are informed by data
   
 If data-related roles are not
 available, he is also interested in any software engineering roles.
-## Technical Skills
+### Technical Skills
 **Programming and Markup Languages**: Python | SQL | Markdown | HTML/CSS<br>
 **Python Libraries**: Pandas | Matplotlib | Seaborn | Plotly | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup | Requests | Flask (familiar)<br>
 **Data-related Skills**: Importing Data from Various Sources | Interacting with REST APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Interactive and Static Data Visualization | Machine Learning | Dashboard Apps with Plotly Dash<br>
 **Software Tools and Platforms**: Git and GitHub | Tableau Public | Visual Studio Code | Anaconda | Jupyter<br>
-## Work Experience
+### Work Experience
 January 2019 - November 2020 | **Chrysos Aquaculture** | Manager
 * Presented financial reports to upper management such as showing the current sources of expenditure, forecasting future expenses, and price comparison from different suppliers
 * Procured hardware, equipment, and material from local and online suppliers
@@ -29,8 +29,8 @@ June 2017 - December 2018 | **Maxim Integrated** | Test Product Engineer
 * Identified a product that had a consistent history of passing certain tests
   * Used data of present and past performance to show that removing those particular tests from the test process would not result in a negative impact on quality
   * Implemented and committed the reduction of the tests from the test program
-* Underwent in-house training on the basic concepts of Six Sigma DMAIC, and other problem-solving methodologies such as 8D and 3x5 Why<br><br><br><br><br><br>
-## Open-Source Contributions (GitHub Handle: max-torch)
+* Underwent in-house training on the basic concepts of Six Sigma DMAIC, and other problem-solving methodologies such as 8D and 3x5 Why
+### Open-Source Contributions (GitHub Handle: max-torch)
 **Time Tracker** | [Pazitos10/time-tracker](https://github.com/Pazitos10/time-tracker) | Time-tracking application written in Python
 * Authored code that allows the app to generate data visualizations from the user's data ([View pull request on GitHub](https://github.com/Pazitos10/time-tracker/pull/3))
 
@@ -41,20 +41,20 @@ June 2017 - December 2018 | **Maxim Integrated** | Test Product Engineer
   * Had to install an Ubuntu OS in a Hyper-V Virtual Machine in order to verify that fixes and features were functional in Linux as well as Windows
 * Learned how to work with the in-house programming language known as WML by reading the project documentation, looking at examples in the existing codebase, and communicating with the current Project Development Team on Discord
 * Learned how to work with in-house developer tools written in Python
-## Selected Project Highlights
+### Selected Project Highlights
 * Created a Shopify Private App that fetches data from a Shopify Store using Shopify's Rest Admin API and presents a dashboard containing aggregated data to the user ([View repository on GitHub](https://github.com/max-torch/Custom-Shopify-Analytics))([View Sample App](https://custom-shopify-analytics.herokuapp.com/))
 * Authored a [Medium Article](https://medium.com/codex/make-others-want-to-work-with-your-code-93bf745bd35b) called "Make Others Want to Work with Your Code" that was selected for further distribution by Medium's curators
 * Explored, and analyzed with machine learning, data from the online dating platform OKCupid as a portfolio project while going through courses on Codecademy ([View blog article](https://max-torch.github.io/2021/05/15/OKCupid.html))
   * Machine learning algorithms showed that describing one's body as "curvy" was a strong predictor that a user was female
-## Informal Education
+### Informal Education
 * [Codecademy Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science) | August 2020 - November 2020
 * [Codecademy Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) | November 2020 - June 2021
 * [Kaggle 30 days of Machine Learning](https://www.kaggle.com/thirty-days-of-ml) | August 2021 - September 2021
 * Self-learning from online articles, videos, and projects | September 2021 - Present
-## Formal Education
+### Formal Education
 * University of St. La Salle | Bachelor's Degree in Electronics Engineering | 2013 - 2016
 * Technological University of the Philippines | Electronics Engineering Technology | 2009 - 2012
-## Additional Accomplishments
+### Additional Accomplishments
 * [Topped the Philippines Electronics Technician (ECT) Licensure Exam April 2017](https://www.prcboardnews.com/2017/04/top-10-passers-april-2017-ece-ect-board-exam-results.html)
 * Finished the ten speeches [Competent Communicator](https://www.nytoastmasters.org/competent-communicator) Path of Toastmasters International
 
