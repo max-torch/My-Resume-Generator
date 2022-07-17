@@ -10,10 +10,20 @@ If data-related roles are not
 available, he is also interested in any software engineering roles.
 ### Technical Skills
 **Programming and Markup Languages**: Python | SQL | Markdown | HTML/CSS<br>
-**Python Libraries**: Pandas | Matplotlib | Seaborn | Plotly | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup | Requests | Flask (familiar)<br>
-**Data-related Skills**: Importing Data from Various Sources | Interacting with REST APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Interactive and Static Data Visualization | Machine Learning | Dashboard Apps with Plotly Dash<br>
-**Software Tools and Platforms**: Git and GitHub | Tableau Public | Visual Studio Code | Anaconda | Jupyter<br>
+**Python Libraries**: Pandas | Matplotlib | Seaborn | Plotly | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup | Requests | Flask<br>
+**Data-related Skills**: Importing Data from Various Sources | Interacting with REST and GraphQL APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Interactive and Static Data Visualization | Machine Learning | Dashboard Apps with Plotly Dash<br>
+**Software Tools and Platforms**: Git and GitHub | Tableau Public | Visual Studio Code | Jupyter | Kaggle | Sphinx | diagrams.net<br>
+**Google Cloud Products**: App Engine | Google Workspace Admin SDK | Secret Manager | Identity-Aware Proxy
 ### Work Experience
+April 2022 - July 2022 | **Includovate** | System Engineer
+* Established connections between low-level and high-level boards on Monday.com
+* Created a Workload dashboard that provides visual information allowing you to determine which team members are under or overloaded. 
+  * Gets its data from Google Workspace, Google Calendar, and Monday.com and updates every time the page is refreshed. 
+  * Built using Plotly Dash, 
+  * Deployed on Google App Engine
+  * Has access control using Google Identity-Aware Proxy
+  * Documentation was created using Sphinx.
+
 January 2019 - November 2020 | **Chrysos Aquaculture** | Manager
 * Presented financial reports to upper management such as showing the current sources of expenditure, forecasting future expenses, and price comparison from different suppliers
 * Procured hardware, equipment, and material from local and online suppliers
@@ -50,7 +60,7 @@ June 2017 - December 2018 | **Maxim Integrated** | Test Product Engineer
 * [Codecademy Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science) | August 2020 - November 2020
 * [Codecademy Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science) | November 2020 - June 2021
 * [Kaggle 30 days of Machine Learning](https://www.kaggle.com/thirty-days-of-ml) | August 2021 - September 2021
-* Self-learning from online articles, videos, and projects | September 2021 - Present
+* Self-learning from online articles, videos, and projects | September 2021 - April 2022
 ### Formal Education
 * University of St. La Salle | Bachelor's Degree in Electronics Engineering | 2013 - 2016
 * Technological University of the Philippines | Electronics Engineering Technology | 2009 - 2012

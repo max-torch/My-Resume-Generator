@@ -9,7 +9,7 @@ I initially decided to write my resume using Markdown instead of using an office
  Currently, the contents of `resume.md` are the actual contents of my resume.
 
  ## Usage
- 1. Write your resume in Markdown. Use h2 headings (`##`) for each resume section title.
+ 1. Write your resume in Markdown. Use h3 headings (`###`) for each resume section title.
  2. Use [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) to convert the `.md` file to `.html`.
  3. Run `stylize.py`.
  4. Your resume is ready as `My Resume.pdf`.
