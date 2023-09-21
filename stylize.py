@@ -29,8 +29,7 @@ def soup_to_html(file, soup):
 
 
 def html_to_pdf(html_file, pdf_file):
-    config = pdfkit.configuration(wkhtmltopdf="C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe")
-    pdfkit.from_file(html_file, pdf_file, configuration=config)
+    pdfkit.from_file(html_file, pdf_file, options={'enable-local-file-access': None})
 
 
 if __name__ == "__main__":
