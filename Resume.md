@@ -13,11 +13,11 @@ available, he is also interested in any software engineering roles.
 
 ### Technical Skills
 
-**Programming and Markup Languages**: Python | SQL | Markdown | HTML/CSS<br>
-**Python Libraries**: Pandas | Matplotlib | Seaborn | Plotly | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup | Requests | Flask<br>
-**Data-related Skills**: Importing Data from Various Sources | Interacting with REST and GraphQL APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Interactive and Static Data Visualization | Machine Learning | Dashboard Apps with Plotly Dash<br>
-**Software Tools and Platforms**: Git and GitHub | Tableau Public | Visual Studio Code | Jupyter | Kaggle | Sphinx | diagrams.net<br>
-**Google Cloud Products**: App Engine | Google Workspace Admin SDK | Secret Manager | Identity-Aware Proxy
+- **Programming and Markup Languages**: Python | SQL | Markdown | HTML/CSS
+- **Python Libraries**: Pandas | Matplotlib | Seaborn | Plotly | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup | Requests | Flask
+- **Data-related Skills**: Importing Data from Various Sources | Interacting with REST and GraphQL APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Interactive and Static Data Visualization | Machine Learning | Dashboard Apps with Plotly Dash<
+- **Software Tools and Platforms**: Git and GitHub | Tableau Public | Visual Studio Code | Jupyter | Kaggle | Sphinx | diagrams.net
+- **Google Cloud Products**: App Engine | Google Workspace Admin SDK | Secret Manager | Identity-Aware Proxy
 
 ### Work Experience
 
