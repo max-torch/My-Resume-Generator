@@ -1,12 +1,17 @@
+h1 {
+    border-bottom-style:none
+}
+
 h3 {
     color: #ff148d;
     position:relative;
     text-align:left;
+    border-bottom-style: none;
 }
 
 h3 span {
     display:inline-block;
-    padding:0 10px;
+    padding-right:10px;
     background:#fff;
 }
 
