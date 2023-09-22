@@ -2,24 +2,23 @@
 
 <lacsonalexanderz@gmail.com> | [Portfolio](https://max-torch.github.io/) | [LinkedIn](https://www.linkedin.com/in/alexanderzlacson/) | [GitHub](https://github.com/max-torch) | [Medium](https://lacsonalexanderz.medium.com/) | Philippines | +639993206141
 
-## Summary
-
-- Looking for a role in a Data Analytics or Data Science Department
-- Considers himself a strategic and analytical person
-- Prefers to make decisions that are informed by data
-  
-If data-related roles are not
-available, he is also interested in any software engineering roles.
-
 ## Technical Skills
 
 - **Programming and Markup Languages**: Python | SQL | Markdown | HTML/CSS
 - **Python Libraries**: Pandas | Matplotlib | Seaborn | Plotly | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup | Requests | Flask
-- **Data-related Skills**: Importing Data from Various Sources | Interacting with REST and GraphQL APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Interactive and Static Data Visualization | Machine Learning | Dashboard Apps with Plotly Dash<
+- **Data-related Skills**: Importing Data from Various Sources | Interacting with REST and GraphQL APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Interactive and Static Data Visualization | Machine Learning | Dashboard Apps with Plotly Dash
 - **Software Tools and Platforms**: Git and GitHub | Tableau Public | Visual Studio Code | Jupyter | Kaggle | Sphinx | diagrams.net
 - **Google Cloud Products**: App Engine | Google Workspace Admin SDK | Secret Manager | Identity-Aware Proxy
 
 ## Work Experience
+
+January 2023 - September 2023 | **Mapa Web Development** | Software Developer
+
+- Collaborated closely with a fellow software developer, who was new to the role, to develop a mobile app. We utilized Flutter for the mobile client, Python Flask for the back end, Firebase for authentication, and Firestore for the database.
+- Provided all the necessary requirements for successful acceptance and deployment of the app to the Google Play Store and Apple App Store
+- Orchestrated the setup of separate local, development, and production environments for controlled development and testing processes
+- Implemented CI/CD pipelines using GitLab and Docker for the back-end services, achieving high test code coverage and detailed documentation
+- Managed Google Cloud infrastructure, ensuring cost efficiency, permissions, and security measures
 
 April 2022 - July 2022 | **Includovate** | System Engineer
 
@@ -29,26 +28,6 @@ April 2022 - July 2022 | **Includovate** | System Engineer
   - Built using Plotly Dash,
   - Deployed on Google App Engine
   - Has access control using Google Identity-Aware Proxy
-  - Documentation was created using Sphinx.
-
-January 2019 - November 2020 | **Chrysos Aquaculture** | Manager
-
-- Presented financial reports to upper management such as showing the current sources of expenditure, forecasting future expenses, and price comparison from different suppliers
-- Procured hardware, equipment, and material from local and online suppliers
-- Reviewed and approved weekly budget requests before they were sent to upper management
-- Involved in laying off an entire team of people while ensuring transparency with employees about the reasons and that advance notice and severance pay was given
-- Introduced the [Trello](https://trello.com/about) app as a management tool to the staff under him so that he could manage assigned tasks through the app and give everyone a sense of how each other was doing in terms of work and backlog
-- Taught bookkeeping staff how to use [GitHub Desktop](https://desktop.github.com/) so that they could collaborate, backup, and apply version control on their files and documents
-- Held Town Hall Meetings to communicate company news to employees and hear out employee concerns
-
-June 2017 - December 2018 | **Maxim Integrated** | Test Product Engineer
-
-- Debugged and maintained semiconductor product test programs/code, which were written in Visual Basic and C++, that were already deployed in production
-- Analyzed and presented data for an A/B test comparing two different materials of a Test Platform component to see whether it reduced damage to products induced during testing
-- Identified a product that had a consistent history of passing certain tests
-  - Used data of present and past performance to show that removing those particular tests from the test process would not result in a negative impact on quality
-  - Implemented and committed the reduction of the tests from the test program
-- Underwent in-house training on the basic concepts of Six Sigma DMAIC, and other problem-solving methodologies such as 8D and 3x5 Why
 
 ## Open-Source Contributions (GitHub Handle: max-torch)
 
