@@ -8,13 +8,13 @@
 - **Python Libraries**: Pandas | Matplotlib | Seaborn | Plotly | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup | Requests | Flask
 - **Data-related Skills**: Importing Data from Various Sources | Interacting with REST and GraphQL APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Interactive and Static Data Visualization | Machine Learning | Dashboard Apps with Plotly Dash
 - **Software Tools and Platforms**: Git and GitHub | Tableau Public | Visual Studio Code | Jupyter | Kaggle | Sphinx | diagrams.net
-- **Google Cloud Products**: App Engine | Google Workspace Admin SDK | Secret Manager | Identity-Aware Proxy
+- Experience with **Google Cloud**
 
 ## Work Experience
 
 January 2023 - September 2023 | **Mapa Web Development** | Software Developer
 
-- Collaborated closely with a fellow software developer, who was new to the role, to develop a mobile app. We utilized Flutter for the mobile client, Python Flask for the back end, Firebase for authentication, and Firestore for the database.
+- Collaborated closely with a fellow software developer, who was new to the role, to develop a mobile app. We utilized Flutter for the mobile client, Python Flask for the back end, used DragonPay for payment processing, Firebase for authentication, and Firestore for the database.
 - Provided all the necessary requirements for successful acceptance and deployment of the app to the Google Play Store and Apple App Store
 - Orchestrated the setup of separate local, development, and production environments for controlled development and testing processes
 - Implemented CI/CD pipelines using GitLab and Docker for the back-end services, achieving high test code coverage and detailed documentation
