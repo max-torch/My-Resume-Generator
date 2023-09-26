@@ -5,7 +5,7 @@
 ## Technical Skills
 
 - **Programming and Markup Languages**: Python | SQL | Markdown | HTML/CSS
-- **Python Libraries**: Pandas | Matplotlib | Seaborn | Plotly | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup | Requests | Flask
+- **Python Libraries**: pandas | Matplotlib | Seaborn | Plotly | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup | Requests | Flask
 - **Data-related Skills**: Importing Data from Various Sources | Interacting with REST and GraphQL APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Interactive and Static Data Visualization | Machine Learning | Dashboard Apps with Plotly Dash
 - **Software Tools and Platforms**: Git and GitHub | Tableau Public | Visual Studio Code | Jupyter | Kaggle | Sphinx | diagrams.net
 - Experience with **Google Cloud**
