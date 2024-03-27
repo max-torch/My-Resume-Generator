@@ -1,6 +1,6 @@
 # Alexander Lacson
 
-<lacsonalexanderz@gmail.com> | [Portfolio](https://max-torch.github.io/) | [LinkedIn](https://www.linkedin.com/in/alexanderzlacson/) | [GitHub](https://github.com/max-torch) | [Medium](https://lacsonalexanderz.medium.com/) | Philippines | +639993206141
+<lacsonalexanderz@gmail.com> | [Portfolio](https://max-torch.github.io/portfolio-v2/) | [LinkedIn](https://www.linkedin.com/in/alexanderzlacson/) | [GitHub](https://github.com/max-torch) | [Medium](https://lacsonalexanderz.medium.com/) | Philippines | +639993206141
 
 ## Technical Skills
 
