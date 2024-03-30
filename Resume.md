@@ -2,12 +2,17 @@
 
 <lacsonalexanderz@gmail.com> | [Portfolio](https://max-torch.github.io/portfolio-v2/) | [LinkedIn](https://www.linkedin.com/in/alexanderzlacson/) | [GitHub](https://github.com/max-torch) | [Medium](https://lacsonalexanderz.medium.com/) | Philippines | +639993206141
 
+## About Me
+
+With a background in Electronics Engineering, I transitioned into the software and data industry because I can see myself continuing to grow due to the plethora of highly accessible online resources. I used the downtime of the Coronavirus pandemic to develop a strong foundation in software and data and have since been able to make improvements to my [favorite video game of all time](https://www.wesnoth.org/); work on internal dashboard app prototypes using Plotly Dash for a [social enterprise](https://www.includovate.com/); and, together with a team, build a [cross-platfrom mobile app](https://apps.apple.com/ph/app/park-king-ph/id6450494343) from scratch using Flutter, Flask, and Firebase, until the app was released into production.
+
 ## Technical Skills
 
-- **Programming and Markup Languages**: Python | SQL | Markdown | HTML/CSS
-- **Python Libraries**: pandas | Matplotlib | Seaborn | Plotly | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup | Requests | Flask
+- **Programming and Markup Languages**: Python | SQL | Markdown | HTML/CSS | Dart/Flutter | Pug | Sass/SCSS | Javascript | Bootstrap
+- **Python Libraries**: pandas | Plotly| Flask | Requests| Matplotlib | Seaborn | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup
 - **Data-related Skills**: Importing Data from Various Sources | Interacting with REST and GraphQL APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Interactive and Static Data Visualization | Machine Learning | Dashboard Apps with Plotly Dash
-- **Software Tools and Platforms**: Git and GitHub | Tableau Public | Visual Studio Code | Jupyter | Kaggle | Sphinx | diagrams.net
+- **DevOps Skills**: Docker | GitLab CI
+- **Software Tools and Platforms**: Git | GitHub | GitLab | Visual Studio Code | Jupyter | Kaggle | Sphinx
 - Experience with **Google Cloud**
 
 ## Work Experience
