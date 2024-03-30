@@ -12,7 +12,7 @@ With a background in Electronics Engineering, I transitioned into the software a
 - **Python Libraries**: pandas | Plotly| Flask | Requests| Matplotlib | Seaborn | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup
 - **Data-related Skills**: Importing Data from Various Sources | Interacting with REST and GraphQL APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Interactive and Static Data Visualization | Machine Learning | Dashboard Apps with Plotly Dash
 - **DevOps Skills**: Docker | GitLab CI
-- **Software Tools and Platforms**: Git | GitHub | GitLab | Visual Studio Code | Jupyter | Kaggle | Sphinx
+- **Software Tools and Platforms**: Git | GitHub | GitLab | Visual Studio Code | Figma | Jupyter | Kaggle | Sphinx
 - Experience with **Google Cloud**
 
 ## Work Experience
