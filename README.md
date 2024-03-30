@@ -20,7 +20,7 @@ I initially decided to write my resume using Markdown instead of using an office
  1. Write your resume in Markdown. Use h3 headings (`###`) for each resume section title.
  2. Use [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) to convert the `.md` file to `.html`.
  3. Run `stylize.py`.
- 4. Open `StylizedResume.html` with Microsoft Edge, go to print and select the "Save as PDF" option to save the HTML file as a PDF file.
+ 4. Open `StylizedResume.html` with Microsoft Edge, go to print and select the "Save as PDF" option, make sure that the Background Graphic option is ticked, to save the HTML file as a PDF file.
  5. Tailor your resume for each job application and keep track of all the different versions by using Git to create a new branch for each version of your resume you present to employers.
 
 TODO: Fix the python pdfkit output
