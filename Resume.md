@@ -44,10 +44,8 @@ April 2022 - July 2022 | 3 months | **Includovate** | System Engineer
 - Learned how to work with the in-house programming language known as WML by reading the project documentation, looking at examples in the existing codebase, and communicating with the current Project Development Team on Discord
 - Learned how to work with in-house developer tools written in Python
 
-## Selected Project Highlights
+## Portfolio Project
 
-- Created a Shopify Private App that fetches data from a Shopify Store using Shopify's Rest Admin API and presents a dashboard containing aggregated data to the user ([View repository on GitHub](https://github.com/max-torch/Custom-Shopify-Analytics))([View Sample App](https://custom-shopify-analytics.herokuapp.com/))
-- Authored a [Medium Article](https://medium.com/codex/make-others-want-to-work-with-your-code-93bf745bd35b) called "Make Others Want to Work with Your Code" that was selected for further distribution by Medium's curators
 - Explored, and analyzed with machine learning, data from the online dating platform OKCupid as a portfolio project while going through courses on Codecademy ([View blog article](https://max-torch.github.io/2021/05/15/OKCupid.html))
   - Machine learning algorithms showed that describing one's body as "curvy" was a strong predictor that a user was female
 
