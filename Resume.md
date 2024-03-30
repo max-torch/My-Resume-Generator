@@ -14,7 +14,7 @@
 
 January 2023 - September 2023 | **Mapa Web Development** | Software Developer
 
-- Collaborated closely with a fellow software developer, who was new to the role, to develop a mobile app. We utilized Flutter for the mobile client, Python Flask for the back end, used DragonPay for payment processing, Firebase for authentication, and Firestore for the database.
+- Collaborated closely with a fellow software developer, who was new to the role, to develop a mobile app that allows users to book parking slots for events such as concerts and conferences. We utilized Flutter for the mobile client, Python Flask for the back end, used DragonPay for payment processing, Firebase for authentication, and Firestore for the database.
 - Provided all the necessary requirements for successful acceptance and deployment of the app to the Google Play Store and Apple App Store
 - Orchestrated the setup of separate local, development, and production environments for controlled development and testing processes
 - Implemented CI/CD pipelines using GitLab and Docker for the back-end services, achieving high test code coverage and detailed documentation
