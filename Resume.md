@@ -10,7 +10,7 @@ With a background in Electronics Engineering, I transitioned into the software a
 
 - **Programming and Markup Languages**: Python | SQL | Markdown | HTML/CSS | Dart/Flutter | Pug | Sass/SCSS | Javascript | Bootstrap
 - **Python Libraries**: pandas | Plotly| Flask | Requests| Matplotlib | Seaborn | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup
-- **Data-related Skills**: Importing Data from Various Sources | Interacting with REST and GraphQL APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Interactive and Static Data Visualization | Machine Learning | Dashboard Apps with Plotly Dash
+- **Data-related Skills**: Importing Data from Various Sources | Interacting with REST and GraphQL APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Data Visualization | Machine Learning | Dashboard Apps with Plotly Dash
 - **DevOps Skills**: Docker | GitLab CI
 - **Software Tools and Platforms**: Git | GitHub | GitLab | Visual Studio Code | Figma | Jupyter | Kaggle | Sphinx
 - Experience with **Google Cloud**
@@ -42,6 +42,7 @@ April 2022 - July 2022 | 3 months | **Includovate** | System Engineer
 
 **Battle For Wesnoth** | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | Cross-platform, turn-based fantasy strategy game
 
+- Created an [online dashboard](https://replays.wesnoth.org/dashboard/) that fetches and visualizes data from the official server about multiplayer games that have been played
 - Proofreading, improvements, and additions to in-game dialog and text
 - Suggested and implemented some feature enhancements to campaign scenarios
 - Closed some issues with the in-house developer tools
