@@ -9,7 +9,7 @@ With a background in Electronics Engineering, I transitioned into the software a
 ## Technical Skills
 
 - **Programming and Markup Languages**: Python | SQL | Markdown | HTML/CSS | Dart/Flutter | Pug | Sass/SCSS | Javascript | Bootstrap
-- **Python Libraries**: pandas | Plotly| Flask | Requests| Matplotlib | Seaborn | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup
+- **Python Libraries**: pandas | Plotly| Flask | Requests | Matplotlib | Seaborn | scikit-learn | Natural Language Toolkit | SciPy | NumPy | Beautiful Soup
 - **Data-related Skills**: Importing Data from Various Sources | Interacting with REST and GraphQL APIs | Data Cleaning and Wrangling | Exploratory Data Analysis | Data Visualization | Machine Learning | Dashboard Apps with Plotly Dash
 - **DevOps Skills**: Docker | GitLab CI
 - **Software Tools and Platforms**: Git | GitHub | GitLab | Visual Studio Code | Figma | Jupyter | Kaggle | Sphinx
